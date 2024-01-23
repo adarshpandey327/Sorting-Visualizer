@@ -3,3 +3,13 @@
     display: flex;
     align-items: flex-end;
 }
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.bar{
+    width: 20px;
+    background-color: blue;
+    margin: 1px;
+}
